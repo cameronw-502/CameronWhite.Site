@@ -1,0 +1,20 @@
+<span id="a">cameron@white</span>:<span id="b">~</span><span id="c">$</span> cd root/<!-- laglaglaglaglaglag -->Contact
+<span id="a">cameron@white</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->contact.txt<br/><br/>
+Please enter the information below: <!-- sjkfhskjf -->
+
+
+<form action="contact.php">
+<label for="name"><span id="a">name</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglaglaglag --></label><input type="text" id="name" name="name">
+
+<label for="email"><label for <span id="a">email</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglaglaglag --></label><input type="email" id="email" name="email">
+
+<label for="message"><span id="a">message</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglaglaglag --></label><textarea rows="4" cols="60" name="message" id="message"></textarea>
+<br><br>
+<input id="submit-button" type="submit" value="Submit">
+</form>
+
+<p>Choose an option below:</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+
+<p><a href="index.html">Home</a></p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p><a href="portfolio_programming.html">Programming Portfolio</a></p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p><a href="portfolio_graphic_design.html">Graphic Design Portfolio</a></p><!-- delaydelaydelaydelaydelaydelaydelay -->
